@@ -1,5 +1,9 @@
 # AssemblyStringNumConverter
 
+CS271 - Computer Architecture and Assembly Language: Portfolio Assignment
+
+Converts a string of numbers to a numeric representation. Converts the numeric representation back into a string to display to user. User enters 10 signed integers to be put in a array. The final array, the sum of numbers in the array, and the rounded average of the numbers is then displayed to the user.
+
 Implements homemade readVal and and writeVal procedures for signed integers.
 Implement macros getString and displayString. The macros may use Irvine’s ReadString to get input
 from the user, and WriteString to display output. Program asks user to input a numeric value that
